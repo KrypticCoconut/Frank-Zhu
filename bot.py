@@ -1,5 +1,4 @@
 import asyncio
-from sqlite3 import connect
 import discord
 from discord.ext import commands
 from utils import bytes_to_text, elevenlabs_text_to_audio, tanqr_react, load_audio
